@@ -1,3 +1,10 @@
+## v1. 첫 시도 (25.02.18)
+https://github.com/sosow0212/GildedRose-Refactoring-Kata/pull/1
+
+## v2.
+
+
+---
 _Support this and all my katas via [Patreon](https://www.patreon.com/EmilyBache)_
 
 # Gilded Rose Refactoring Kata
